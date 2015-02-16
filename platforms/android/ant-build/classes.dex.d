@@ -6,4 +6,7 @@
 /Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/ant-build/classes/kr/choolcheck/app/R$string.class \
 /Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/ant-build/classes/kr/choolcheck/app/R$xml.class \
 /Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/ant-build/classes/kr/choolcheck/app/R.class \
+/Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/ant-build/classes/org/apache/cordova/camera/CameraLauncher.class \
+/Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/ant-build/classes/org/apache/cordova/camera/ExifHelper.class \
+/Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/ant-build/classes/org/apache/cordova/camera/FileHelper.class \
 /Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/ant-build/dexedLibs/classes-27928270d52e3da6d8a86dfccbc1d450.jar \

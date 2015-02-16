@@ -35,7 +35,15 @@
 /Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/img \
 /Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/index.html \
 /Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/js \
+/Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/phonegap.js \
+/Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/plugins \
 /Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/css/index.css \
 /Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/img/logo.png \
 /Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/js/index.js \
+/Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/plugins/org.apache.cordova.camera \
+/Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/plugins/org.apache.cordova.camera/www \
+/Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/Camera.js \
+/Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraConstants.js \
+/Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js \
+/Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js \
 /Users/charles/Documents/workspace/hackerthon/choolcheck_phonegap/platforms/android/ant-build/AndroidManifest.xml \
