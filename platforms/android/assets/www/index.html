@@ -10,15 +10,31 @@
         <title>ChoolCheck</title>
     </head>
     <body>
-        <div class="app">
-            <h1>ChoolCheck</h1>
-            <div id="deviceready" class="blink">
-                <p class="event listening">Connecting to Device</p>
-                <p class="event received">Device is Ready</p>
-                <button onclick="getImage();">Upload a Photo</button>
-            </div>
+        <div class="container">
+          <img src="img/logo.png">
+          <h1>ChoolCheck</h1>
+          <div id="deviceready" class="blink">
+              <p class="event listening">Connecting to Device</p>
+              <p class="event received">Device is Ready</p>
+              <div id="class_list"></div>
+              <button onclick="getImage();">Upload a Photo</button>
+              <button onclick="callList();">Refresh</button>
+              <button onclick="logout();">Logout</button>
+          </div>
         </div>
         <script type="text/javascript" src="cordova.js"></script>
         <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript">
+          console.log("Stored Email : " + window.localStorage.getItem("user_email");
+          console.log("Stored Token : " + window.localStorage.getItem("user_token");
+          console.log("valid null: " + window.localStorage.getItem("user_token") === null);
+          console.log("valid undefined: " + window.localStorage.getItem("user_token") === undefined);
+          if (window.localStorage.getItem("user_token") === undefined) {
+            window.location.replace("login.html");
+          } else {
+            console.log("===== Call List =====");
+            callList();
+          }
+        </script>
     </body>
 </html>
